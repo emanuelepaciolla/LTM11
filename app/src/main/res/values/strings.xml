@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimaApp</string>
+    <string name="Titolo">Titolo</string>
+    <string name="Sottotitolo">Sottotitolo</string>
+    <string name="Testo">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie suscipit finibus. Integer vitae libero non nisi tristique hendrerit. Donec vel eros est. Mauris vitae dapibus turpis, id interdum justo. Proin porttitor elit et lorem luctus mollis. Sed accumsan tellus volutpat rhoncus imperdiet. Aenean fermentum sem ac lectus laoreet aliquam.
+    </string>
+</resources>
