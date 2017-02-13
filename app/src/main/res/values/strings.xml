@@ -5,4 +5,11 @@
     <string name="Testo">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie suscipit finibus. Integer vitae libero non nisi tristique hendrerit. Donec vel eros est. Mauris vitae dapibus turpis, id interdum justo. Proin porttitor elit et lorem luctus mollis. Sed accumsan tellus volutpat rhoncus imperdiet. Aenean fermentum sem ac lectus laoreet aliquam.
     </string>
+    <string name="Nome">Emanuele</string>
+    <string name="Corso">LTM11</string>
+    <string name="Anno">2016/2018</string>
+    <string name="NUMERO">3333333333</string>
+    <string name="Via">Via Tal de Tali 81</string>
+    <string name="Muoviti">GO</string>
+    <string name="Chiama">Call</string>
 </resources>
